@@ -1,0 +1,11 @@
+{
+    "entry": "ChatLogger.js",
+    "name": "ChatLogger",
+    "version": "0.1.0",
+    "type": "lse-quickjs",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        }
+    ]
+}

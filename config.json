@@ -1,0 +1,12 @@
+{
+    "enable": true,
+    "logPath": "plugins/ChatLogger/logs/",
+    "logFileName": "chat_%Y%M%D.log",
+    "logJoinLeave": true,
+    "logChat": true,
+    "logToConsole": true,
+    "timeFormat": "[%H:%m:%S]",
+    "chatFormat": "{time} <{player}> {message}",
+    "joinFormat": "{time} *** {player} 加入了游戏",
+    "leaveFormat": "{time} *** {player} 离开了游戏"
+}
